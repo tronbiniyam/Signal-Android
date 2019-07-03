@@ -24,3 +24,6 @@ obj/
 jni/libspeex/.deps/
 *.sh
 pkcs11.password
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
